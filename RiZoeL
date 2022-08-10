@@ -54,7 +54,7 @@ _starter () {
     cd $RIZPATH
     # _RIZOEL_PLUG
     python3 ../startup/run.py ../requirements.txt requirements.txt
-    echo "• RiZoeLXSpam Here. •"
+    echo "• Mr Kaneki Here. •"
     python3 -m RiZoeLXSpam
 }
 
